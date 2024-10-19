@@ -35,11 +35,11 @@ function show_result(
     machine_selection.classList.remove("is-winner")
   }
 
-  user_selection.style.backgroundImage = `url(../images/icon-${user_play}.svg)`
+  user_selection.style.backgroundImage = `url(images/icon-${user_play}.svg)`
   user_selection.style.borderColor = user_color
   user_selection.style.boxShadow = `inset 0 6px rgba(0, 0, 0, 0.2), 0 6px ${user_color}`
 
-  machine_selection.style.backgroundImage = `url(../images/icon-${machine_play}.svg)`
+  machine_selection.style.backgroundImage = `url(images/icon-${machine_play}.svg)`
   machine_selection.style.borderColor = machine_color
   machine_selection.style.boxShadow = `inset 0 6px rgba(0, 0, 0, 0.2), 0 6px ${machine_color}`
 }
