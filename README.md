@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Nitya Gulati](https://nityagulati.github.io).
+Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Challenge solved by [Matheus Faustino](https://github.com/matheusfdosan).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
